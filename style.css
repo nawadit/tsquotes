@@ -4,11 +4,13 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: #e2d5f1;
 }
 #box{
     width: 50vw;
     height: 50vh;
     border: 2px solid #333333;
+    background-color: linear-gradient(#b8acd1, #526d85);
     border-radius: 30px;
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
@@ -25,7 +27,7 @@ body{
 #generate{
     font-family: 'Source Sans Pro', sans-serif;
     color: whitesmoke;
-    background-color: #333333;
+    background-color: #4e4466;
     padding: 10px 40px;
     width: auto;
     border: none;
