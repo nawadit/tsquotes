@@ -10,7 +10,7 @@ body{
     width: 50vw;
     height: 50vh;
     border: 2px solid #333333;
-    background-color: linear-gradient(#b8acd1, #526d85);
+    background-image: linear-gradient(#b8acd1, #526d85);
     border-radius: 30px;
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
