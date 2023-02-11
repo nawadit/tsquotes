@@ -4,35 +4,30 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: linear-gradient(#b8acd1, #526d85);
-    
+    background-image: linear-gradient(#b8acd1, whitesmoke);
 }
 #box{
     width: 50vw;
     height: 50vh;
     border: 2px solid #333333;
-<<<<<<< HEAD
-    background-color: #e2d5f1;
-=======
-    background-image: linear-gradient(#b8acd1, #526d85);
->>>>>>> fbbd4ebd7f267ab285cc62fb464107e7ae68845c
     border-radius: 30px;
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
     color: #333333;
-    font-size: auto;
+    font-size: xx-large;
     font-weight: lighter;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
-    padding: 0px 40px;
+    background-color: #e2d5f1;
+    padding: 0px 30px;
 
 }
 #generate{
     font-family: 'Source Sans Pro', sans-serif;
     color: whitesmoke;
-    background-color: #4e4466;
+    background-color: #526d85;
     padding: 10px 40px;
     width: auto;
     border: none;
